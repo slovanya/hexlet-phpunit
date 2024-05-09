@@ -1,0 +1,15 @@
+{
+    "name": "hexlet/autotest",
+    "require": {
+        "webmozart/assert": "^1.11"
+    },
+    "autoload": {
+        "files": [
+            "bin/StringUtils.php",
+            "bin/StringUtilsTest.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
