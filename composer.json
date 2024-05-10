@@ -6,7 +6,8 @@
     "autoload": {
         "files": [
             "bin/StringUtils.php",
-            "bin/StringUtilsTest.php"
+            "bin/StringUtilsTest.php",
+            "src/Utils.php"
         ]
     },
     "require-dev": {
